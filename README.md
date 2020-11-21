@@ -16,7 +16,7 @@ gcc -o app app.c
 ```
 ./app
 ```
-<img src="img/ap_run.png">
+<img src="img/app_run.png">
 
 
 
