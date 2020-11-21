@@ -28,7 +28,7 @@ Maianly I focused in this simple interest calculator app with main two parts.
 
 - User can select their account type which is he/she want to calculate the interest.
 - Then after that user can input the **amount, interest rate, number of years.**
-- The finally display on terminal how much interest earn for particular years, What is the total balance you have after that particular year, How much you can earn monthly.
+- Final display on the terminal : How much interest earn for particular years, What is the total balance you have after that particular year, How much you can earn monthly.
 
 <img src="img/app_interface.png">
 
